@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Code%2C+Automate%2C+Innovate" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Code%2C+Automate%2C+Have coffee!" alt="Header" />
 </p>
 
 <h3 align="center">⚡ Web Dev & AI Enthusiast | Turning Repetition into Automation</h3>
