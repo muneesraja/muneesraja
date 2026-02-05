@@ -1,28 +1,103 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&lines=Code%2C+Automate%2C+Have coffee!" alt="Header" />
-</p>
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Munees%20Raja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20make%20sense&descAlignY=55&descSize=18)
 
-<h3 align="center">⚡ Web Dev & AI Enthusiast | Turning Repetition into Automation</h3>
+</div>
 
-I’m a developer who loves turning complex problems into simple, automated solutions. My journey started with React.js and Node.js, building web apps that just work. But what really excites me is automation—whether it’s scripting repeated tasks or exploring AI tools like Stable Diffusion and Gemini API. I’m all about making life easier, one line of code at a time. When I’m not tinkering with tech, I’m sharing what I’ve learned and helping others grow. Let’s build something awesome together!
+<br>
+
+## The Origin Story
+
+```
+> Day 1: Wrote a batch script to automate a boring IT task
+> Day 2: "Wait... I can make computers do things FOR me?"
+> Day 1000+: Still chasing that same high
+```
+
+Five years ago, I was doing IT support and wrote a simple batch script. That tiny automation sparked something. YouTube became my classroom, curiosity became my curriculum, and now I build web apps that actually ship.
+
+I've grown with a startup from a 2-person dev team to 5, wearing hats I didn't know existed. Remote work? Just how I operate now. Async communication is second nature.
+
+<br>
+
+## What I Build With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Daily Drivers**
+```
+├── React / Next.js
+├── Node.js
+├── PostgreSQL
+└── TypeScript
+```
+
+</td>
+<td width="50%" valign="top">
+
+**The Interesting Stuff**
+```
+├── Puppeteer (web automation)
+├── Electron (desktop apps)
+├── Chrome Extensions
+├── Google Apps Script
+├── RabbitMQ / Stripe / Twilio
+└── Sentry (because bugs happen)
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Things I've Actually Built
+
+| Project | What It Does |
+|---------|-------------|
+| **Resume Builder** | Because I got tired of fighting with Word |
+| **Mindly** | AI powered second memory for humans who forget things (me) |
+| **Real Estate Site** | Built for my dad and his friends and family tech support evolved |
+| **Invoice Generator** | Freelancing meant I needed to get paid properly |
+| **Various Client MVPs** | Turning ideas into working products, fast |
+
+<br>
+
+## My Take on AI (After Actually Using It)
+
+When I started with Stable Diffusion/chatGPT back at launch, I thought AI would write everything for me. One prompt, done. 
+
+**Reality check:** Even Opus models are like brilliant junior devs who can't quite see the full picture yet.
+
+My workflow evolution tells the story:
+```
+ChatGPT UI → Cursor → Claude Code → Whatever comes next
+```
+
+AI is a 10x multiplier, not a replacement. It helps me learn faster, iterate quicker, and build more but the architecture, the real problem solving? That's still on us.
+
+*It's a fantastic time to build things.*
+
+<br>
+
+## Let's Talk
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/muneesraja.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://muneesraja.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munees-raja)
+[![Email](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneesrajaa@gmail.com)
+
+</div>
+
+<br>
 
 ---
 
-### 🛠️ **Tech Toolkit**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F61?logo=openai)
-![Automation](https://img.shields.io/badge/-Automation-4A154B?logo=automattic)
-
-### 🤖 **Automation Wins**
-```python
-def build():
-    while True:
-        automate("scraping", "slack_alerts", "sheets_workflows")
-        deploy(fast=True)
-```
-
-### 📫 Let’s Connect  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2)](https://muneesraja.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/munees-raja)  [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:muneesrajaa@gmail.com)
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
+  
+</div>
