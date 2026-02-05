@@ -72,11 +72,22 @@ The AI tooling space moves fast. I'm keeping up.
 
 | Project | What It Does |
 |---------|-------------|
-| **Resume Builder** | Because I got tired of fighting with Word |
-| **Mindly** | AI powered second memory for humans who forget things (me) |
-| **Real Estate Site** | Built for my dad and his friends and family tech support evolved |
-| **Invoice Generator** | Freelancing meant I needed to get paid properly |
-| **Various Client MVPs** | Turning ideas into working products, fast |
+| [**Resume Builder**](https://resume.muneesraja.com/) | Because I got tired of fighting with Word |
+| [**Mindly AI**](https://mindly.muneesraja.com/) | AI powered second memory for humans who forget things (me) |
+| [**Real Estate Site**](https://aara.muneesraja.com/) | Built for my dad and his friends and family tech support evolved |
+| [**Invoice Generator**](https://funny-muffin-5758de.netlify.app/) | Freelancing meant I needed to get paid properly |
+| [**PrepNGit**](https://prepngit.muneesraja.com/) | Client MVP  landing page built to spec |
+
+<br>
+
+## Products I've Contributed To
+
+*During my time at Multivariate*
+
+| Product | What It Does |
+|---------|-------------|
+| [**Maakeetoo Hiring**](https://hiring.maakeetoo.com/login) | Audio-based hiring tool |
+| [**AppVector**](https://appvector.io/) | ASO (App Store Optimization) tool |
 
 <br>
 
