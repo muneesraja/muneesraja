@@ -1,6 +1,7 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Munees%20Raja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20make%20sense&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1c2833,100:2e4053&height=200&section=header&text=Munees%20Raja&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20make%20sense&descAlignY=55&descSize=18)
+
 
 </div>
 
@@ -53,6 +54,20 @@ I've grown with a startup from a 2-person dev team to 5, wearing hats I didn't k
 
 <br>
 
+## Currently Exploring 
+
+```
+├── Mastra AI SDK (building AI agents)
+├── Vercel AI SDK
+├── Google AI ADK
+├── Open Router
+└── Docker (containerizing my chaos)
+```
+
+The AI tooling space moves fast. I'm keeping up.
+
+<br>
+
 ## Things I've Actually Built
 
 | Project | What It Does |
@@ -87,7 +102,7 @@ AI is a 10x multiplier, not a replacement. It helps me learn faster, iterate qui
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/muneesraja.com-000?style=for-the-badge&logo=vercel&logoColor=white)](https://muneesraja.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munees-raja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munees-raja)
 [![Email](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneesrajaa@gmail.com)
 
 </div>
@@ -98,6 +113,6 @@ AI is a 10x multiplier, not a replacement. It helps me learn faster, iterate qui
 
 <div align="center">
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1c2833,100:2e4053&height=100&section=footer)
   
 </div>
